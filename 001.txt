@@ -5,7 +5,6 @@
 #爬虫资源
 
 
-{"key":"LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_77","name":"🐼77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -646,7 +645,6 @@
 {"name":"旋风云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=aefiklotwzCEFHJO48&url=","ext":{"flag":["xfyun"]}},
 {"name":"zhanlangbu","type":1,"url":"https://jx.zhanlangbu.com/json.php/?url=","ext":{"flag":["xueren"]}},
 {"name":"6881","type":1,"url":"http://103.40.246.5:6881/byg/json.php?url=","ext":{"flag":["ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV"]}},
-//{"name":"jxcxin","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["ltnb","rx","qq","腾讯","youku","优酷","mgtv","芒果","letv","乐视","renrenmi","sohu"]}},
 {"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},
 {"name":"琅琊影视","type":1,"url":"https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=aehjpzAHILOPQRU456&url=","ext":{"flag":["ltnb"]}}
  
