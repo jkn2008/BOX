@@ -707,7 +707,7 @@ able":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneCl
 "wallpaper":"https://i.ibb.co/QnNYsQF/image.jpg",
 
 
-"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXB/XBiubiuLA2.jar"}
+"spider":"https://raw.githubusercontent.com/YuanHsing/OneClickRun/master/MaooXB/XBiubiuLA2.jar"}
 
 
 
