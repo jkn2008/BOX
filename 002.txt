@@ -141,19 +141,13 @@
       "ext": "علي"
     }
   ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=tvfix&type=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEveS9yYXcvYnJhbmNoL3pieS96YnkudHh0"
-          ]
-        }
-      ]
-    }
-  ],
+
+
+
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEveS9yYXcvYnJhbmNoL3pieS96YnkudHh0"]}]}],
+
+
+
   "parses": [
     {
       "name": "聚合",
