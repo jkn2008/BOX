@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "77_spider",
-      "name": "77🐞",
+      "name": "77🐼",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "LiteApple",
-      "name": "小苹果🐞",
+      "name": "小苹果🐼",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长🐞",
+      "name": "厂长🐼",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "低端🐞",
+      "name": "低端🐼",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "Coke🐞",
+      "name": "Coke🐼",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_Fantuan",
-      "name": "饭团🐞",
+      "name": "饭团🐼",
       "type": 3,
       "api": "csp_Fantuan",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_DY1990",
-      "name": "990🐞",
+      "name": "990🐼",
       "type": 3,
       "api": "csp_DY1990",
       "searchable": 1,
