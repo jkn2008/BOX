@@ -55,10 +55,10 @@
     "ext":""
     },
     {
-      "key": "csp_Fantuan",
-      "name": "饭团🐼",
+      "key": "csp_Kuaikan",
+      "name": "快看",
       "type": 3,
-      "api": "csp_Fantuan",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -110,8 +110,14 @@
 {"key":"csp_xpath_555","name":"555电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/555.js"},
 {"key": "csp_XPathMacFilter_极品","name":"极品影院(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongji2/mm/raw/master/xp/pb/07-极品极链.js"},
 {"key": "csp_XPathMacFilter_达达龟","name":"达达龟(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongji2/mm/raw/master/xp/ce/dadagui.json"},
-
-
+{"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/6d.json"},
+{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/zxzj2.json"},
+{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/auete.json"},
+{"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/yanet.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/jubaibai.json"},
+{"key":"csp_xpath_xqmi","name":"小强迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/xqmi.json"},
+{"key":"csp_xpath_ailays","name":"艾拉影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/syzxasdc/tv/raw/master/Xpath/ailays.json"},
+{"key":"csp_xpath_wuguiyy","name":"乌龟影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable" :0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/wuguiyy.json"},
 
 
 {"key":"csp_biubiu_花猫TV","name":"花猫TV(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/dongji2/bb/raw/master/custom/01-花猫TV.json"},
@@ -122,7 +128,7 @@
 {"key":"csp_biubiu_奇粹影院","name":"奇粹影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/dongji2/bb/raw/master/custom/02-奇粹影院.txt"},
 {"key":"csp_biubiu_lezhutv","name":"乐猪影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/dongji2/bb/raw/master/custom/乐猪影视.txt"},
 {"key":"csp_biubiu_厂长资源","name":"厂长资源(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/bao223/maoystv/raw/master/xbb/cz2.json"},
- 
+
  
    
    
