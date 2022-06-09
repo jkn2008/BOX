@@ -28,6 +28,25 @@
       "filterable": 1
     },
     {
+      "key":"360_spider",
+      "name":"📺360(官源)",
+      "type":3,
+      "api":"csp_SP360",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":""
+    },
+    {
+      "key":"csp_kuaikan",
+      "name":"👀快看(SP)",
+      "type":3,
+      "api":"csp_Kuaikan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "csp_DiDuan",
       "name": "低端🐼",
       "type": 3,
@@ -35,6 +54,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key":"buka_spider",
+      "name":"📒不卡(SP)",
+      "type":3,
+      "api":"csp_Buka",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":""
     },
     {
       "key": "csp_Cokemv",
@@ -56,7 +85,7 @@
     },
     {
       "key": "csp_DY1990",
-      "name": "990🐼",
+      "name": "90🐼",
       "type": 3,
       "api": "csp_DY1990",
       "searchable": 1,
@@ -91,6 +120,7 @@
       "filterable": 1,
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
+    {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
     
     
     
@@ -108,6 +138,22 @@
 {"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/saohuotv2.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/pianba.json"},
  
+   
+   
+   
+{"key":"csp_appysv2_六神影视","name":"六神影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://300kan.top/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_4k狗","name":"4k狗(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4kdog.tk/api.php/app/"},
+{"key":"csp_appysv2_雪人V2","name":"雪人V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v2/"},
+{"key":"csp_appysv2_剧白白","name":"剧白白V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.pipitu.top/xgapp.php/v2/"},
+{"key":"csp_appysv2_迪迪影院V2","name":"迪迪影院V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+{"key":"csp_appysv2_躺平影视","name":"躺平影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lltpys.com/xgapp.php/v1/"},
+{"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
+{"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_段友影视","name":"段友影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_段友2影视","name":"段友2影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
+{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},  
+{"key":"csp_appysv2_美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"} 
    
    
     {
@@ -180,7 +226,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veGlhdGlhbjIwMjEveS9yYXcvYnJhbmNoL3pieS96YnkudHh0"
           ]
         }
       ]
@@ -481,5 +527,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper":"https://i.ibb.co/QnNYsQF/image.jpg",
-  "spider": "https://raw.githubusercontent.com/jkn2008/mzy/main/m0601_sj_pg.jar"
+//"spider": "https://raw.githubusercontent.com/jkn2008/mzy/main/m0601_sj_pg.jar"，
+"spider":"https://raw.githubusercontent.com/jkn2008/mzy/main/0608.jar"
 }
