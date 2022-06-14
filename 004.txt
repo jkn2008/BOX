@@ -156,15 +156,7 @@
 {"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},
    
    
-    {
-      "key": "aytvip",
-      "name": "爱优腾vip",
-      "type": 1,
-      "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
      "key":"M3U8.TV",
      "name":"M3U8.TV",
@@ -209,14 +201,7 @@
       "quickSearch": 1,
       "filterable": 0
     },  
-    {
-     "key":"雪人官采",
-     "name":"雪人官采",
-     "type":1,
-     "api":"https://zl.chinafix.wang/api.php/provide/vod/",
-     "searchable":1,
-     "quickSearch":1
-    },
+   
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "lives": [
