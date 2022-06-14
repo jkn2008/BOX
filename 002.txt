@@ -379,5 +379,5 @@
 ],
 "wallpaper":"https://i.ibb.co/QnNYsQF/image.jpg",
 
-"spider": "https://gitee.com/dongji2/mm/raw/master/bak/xm-jar_20220527.txt"
+"spider": "https://gitee.com/dongji2/mm/raw/master/bak/xm-ych.jar"
 }
