@@ -189,15 +189,6 @@
      "quickSearch":1
     },
     {
-     "key":"江北资源",
-     "name":"江北资源(官)",
-     "type":1,
-     "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/",
-     "playUrl":"parse:parwix1",
-     "searchable":1,
-     "quickSearch":1
-    },
-    {
      "key":"wabc(腾讯直采)",
      "name":"wabc(腾讯直采)",
      "type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/",
