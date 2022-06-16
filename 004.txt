@@ -161,13 +161,13 @@
 
    
     {
-      "key": "aytvip",
-      "name": "爱优腾vip",
-      "type": 1,
-      "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key":"江北资源",
+      "name":"江北资源(含官采)",
+      "type":1,
+      "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
      "key":"M3U8.TV",
