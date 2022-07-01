@@ -1,5 +1,5 @@
 ﻿{
-  "spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/TS0701.jar",
+  "spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/TS0701-1.jar",
 
   "sites": [
   
@@ -13,6 +13,7 @@
   {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Lib","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小宝影院","name":"小宝影院(海外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"If101","name":"If101(海外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
