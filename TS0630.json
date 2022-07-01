@@ -2,9 +2,7 @@
   "spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/ts0630.jar",
 
   "sites": [
-  {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
+  
   {"key":"低端影视","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -15,6 +13,9 @@
   {"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"小宝影院","name":"小宝影院(海外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"If101","name":"If101(海外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Olevod","name":"Olevod(海外)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pandora2277.github.io/tester.json"},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"01bebc26941443558e917189c71958cf"},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"01bebc26941443558e917189c71958cf"},
