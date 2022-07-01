@@ -14,7 +14,6 @@
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小宝影院","name":"小宝影院(海外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_Nbys","name":"🐼泥巴(海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
   {"key":"If101","name":"If101(海外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Olevod","name":"Olevod(海外Exo播放)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pandora2277.github.io/tester.json"},
