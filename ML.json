@@ -16,9 +16,7 @@
    {"key": "csp_Bttoo"      ,"name":"🐛两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
    {"key": "360_spider"     ,"name":"🐛360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
    {"key":"csp_BBB"         ,"name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"csp_PHP_WMKK"    ,"name":"⭐️完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
-   {"key":"mjxq_spider"     ,"name":"🐛美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-   {"key":"csp_appys_美剧虫","name":"⭐️美剧虫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+   {"key":"mjxq_spider"     ,"name":"🐛美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},  
    {"key":"csp_Nbys"        ,"name":"🐛泥巴(海外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
      
     
