@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"https://gitee.com/kan31467/kan2002/raw/master/kan09.jar",
+"spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/kan09.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
