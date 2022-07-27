@@ -29,6 +29,15 @@
 	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"
     },
     {
+      "key": "神马影院",
+      "name": "神马影院",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "小宝影院",
       "name": "小宝影院",
       "type": 3,
@@ -541,5 +550,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/TScustom_spider.jar"
+  "spider": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/TS0726custom_spider.jar"
 }
