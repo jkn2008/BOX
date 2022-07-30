@@ -10,47 +10,10 @@
       "filterable": 1
     },
     {
-      "key": "bdys",
-      "name": "哔嘀(磁力测试)",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/biditd.json"
-    },    
-    {
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "If101",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Ikan",
       "name": "爱看",
       "type": 3,
       "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Olevod",
-      "name": "Olevod",
-      "type": 3,
-      "api": "csp_Olevod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -65,28 +28,47 @@
       "filterable": 1
     },
     {
+      "key": "Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cokemv",
+      "name": "Cokemv",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
       "key": "小苹果",
       "name": "小苹果",
       "type": 3,
       "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Nfyun",
-      "name": "Nf云",
-      "type": 3,
-      "api": "csp_Nfyun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -111,6 +93,100 @@
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
+      "key":"考拉直链",
+      "name":"🎍考拉直链",
+      "type":1,"api":"https://ikaola.tv/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "bdys",
+      "name": "哔嘀(磁力测试)",
+      "type": 3,
+      "api": "csp_XPbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/biditd.json"
+    },    
+    {
+      "key": "小宝影院",
+      "name": "🚧小宝影院(跨栏)",
+      "type": 3,
+      "api": "csp_Xiaoh",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "If101",
+      "name": "🚧If101(跨栏)",
+      "type": 3,
+      "api": "csp_If101",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "Olevod",
+      "name": "🚧Olevod(跨栏)",
+      "type": 3,
+      "api": "csp_Olevod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "Bili",
+      "name": "B站",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/Bili.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "01bebc26941443558e917189c71958cf"
+    },
+    {
+      "key": "AliPS",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "01bebc26941443558e917189c71958cf"
+    },
+    {
+      "key": "zhaozy",
+      "name": "找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "01bebc26941443558e917189c71958cf"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "01bebc26941443558e917189c71958cf"
+    },
+    {
       "key": "555电影",
       "name": "555电影(XB)",
       "type": 3,
@@ -130,7 +206,7 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXP/jubaibai.json"
     },
-    {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/lezhutv.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/lezhutv.json"},
 {"key":"csp_xpath_saohuo","name":"SH电影(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/saohuo.json"},
 {"key":"csp_xpath_jubaibai","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/jubaibai.json"},
 {"key":"csp_xpath_libvio","name":"libvio(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongji2/mm/raw/master/xp/libvio.js"},
@@ -226,93 +302,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },  
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zxzj",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Cokemv",
-      "name": "Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bili",
-      "name": "B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/Bili.json"
-    },
-    {
-      "key": "Gitcafe",
-      "name": "小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "01bebc26941443558e917189c71958cf"
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "01bebc26941443558e917189c71958cf"
-    },
-    {
-      "key": "zhaozy",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "01bebc26941443558e917189c71958cf"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "01bebc26941443558e917189c71958cf"
     }
+    
   ],
   "lives": [
     {
