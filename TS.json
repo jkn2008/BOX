@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+      "ext": "01bebc26941443558e917189c71958cf"
     },
     {
       "key": "AliPS",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+      "ext": "01bebc26941443558e917189c71958cf"
     },
     {
       "key": "zhaozy",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+      "ext": "01bebc26941443558e917189c71958cf"
     },
     {
       "key": "push_agent",
@@ -329,7 +329,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "ad3c78559a494bde814f1a6c8c40db51"
+      "ext": "01bebc26941443558e917189c71958cf"
     }
   ],
   "lives": [
@@ -339,7 +339,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Live.txt"
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
           ]
         }
       ]
@@ -365,24 +365,21 @@
       "url": "Sequence"
     },
     {
-      "name": "龙虾",
-      "type": 1,
-      "url": "http://106.55.234.91:4433/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dalvik/2.1.0"
-        }
-      }
+    "name": "ceshi",
+    "type": 1,
+    "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+    "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
+    },
+    {
+    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+    },
+    {
+    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
+    {
+    "name":"fuqi",
+    "type":1,
+    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
     },
     {
       "name": "Web解析",
