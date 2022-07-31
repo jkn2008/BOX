@@ -26,13 +26,13 @@
        
         {
           "key": "csp_BBB",
-          "name": "🐮哔哩套餐",
+          "name": "哔哩套餐",
           "type": 3,
           "api": "csp_Bili",
           "searchable": 0,
           "quickSearch": 0,
           "filterable": 1,
-          "ext": "https://gitea.com/wjj415/jn/raw/branch/main/Bili.json"
+          "ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/Bili.json"
         },
         {
           "key": "Gitcafe",
@@ -42,7 +42,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "ext":""
+          "ext":"01bebc26941443558e917189c71958cf"
         }, 
         {
           "key":"FindZY",
@@ -52,7 +52,7 @@
           "searchable":1,
           "quickSearch":1,
           "filterable":1,
-          "ext":""
+          "ext":"01bebc26941443558e917189c71958cf"
        },
        {
          "key":"AliPS",
@@ -62,7 +62,7 @@
          "searchable":1,
          "quickSearch":1,
          "filterable":1,
-         "ext":""
+         "ext":"01bebc26941443558e917189c71958cf"
        },
        {
          "key":"push_agent",
@@ -72,7 +72,7 @@
          "searchable":0,
          "quickSearch":0,
          "filterable":0,
-         "ext":""
+         "ext":"01bebc26941443558e917189c71958cf"
        },
     
 ## XB系列
