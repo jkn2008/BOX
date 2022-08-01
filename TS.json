@@ -557,5 +557,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/TScustom_spider.jar"
+spider":"https://gitea.com/dxa/1/raw/branch/main/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1
 }
