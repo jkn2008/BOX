@@ -5,12 +5,13 @@
   "sites":[
     {"key":"csp_Kunyu77","name":"🐛七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
     {"key":"293视频","name":"🐛293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {"key":"酷猫","name":"🐛酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+    //{"key":"酷猫","name":"🐛酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐛追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},    
     {"key":"csp_hbys","name":"🐛简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
     {"key":"csp_Kuaikan","name":"🐛快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Smdyy_spider","name":"🐛神马影视(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐛3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Ekan_spider","name":"🐛Ekan(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_DiDuan","name":"🐛低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":0,"quickSearch":1,"filterable":1},
     {"key":"csp_CZSPP","name":"🐛厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"在线之家","name":"🐛在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,35 +33,9 @@
     {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     
 
-    {
-      "key": "Ekan_spider",
-      "name": "🐷Ekan(SP)",
-      "api": "csp_Ekan",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
-    {
-      "key": "9E03",
-      "name": "🥇9E03",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "Bili",
-      "name": "🥇B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"
-    },
+
+    
+    {"key": "Bili","name": "🥇B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jkn2008/mzy/raw/branch/main/jar/Bili.json"},
     {"key": "csp_Bliyc","name":"🥇演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixs","name":"🥇相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blidw","name":"🥇动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
