@@ -21,33 +21,33 @@
             "filterable":1
         },
         {
-		    "key": "293视频",
-		    "name": "293视频",
-		    "type": 3,
-		    "api": "csp_SP293",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1,
-		    "ext": ""
-	    },   
+            "key": "293视频",
+            "name": "293视频",
+            "type": 3,
+            "api": "csp_SP293",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },   
         {
-		    "key": "追剧喵",
-		    "name": "追剧喵",
-		    "type": 3,
-		    "api": "csp_ZJMiao",
-		    "searchable": 1,
-		    "quickSearch": 1,
-		    "filterable": 1
-	    }, 
+            "key": "追剧喵",
+            "name": "追剧喵",
+            "type": 3,
+            "api": "csp_ZJMiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
         {
-		    "key": "Ekan_spider",
-		    "name": "Ekan",
-		    "api": "csp_Ekan",
-		    "type": 3,
-		    "filterable": 1,
-		    "quickSearch": 1,
-		    "searchable": 1
-	    }, 
+            "key": "Ekan_spider",
+            "name": "Ekan",
+            "api": "csp_Ekan",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },     
         {
             "key": "神马影院",
             "name": "神马",
