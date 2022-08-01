@@ -19,7 +19,7 @@
     {"key":"csp_Tkys","name":"🐛天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Nfyun", "name": "🐛Nf云(SP)", "type": 3, "api": "csp_Nfyun", "searchable": 1, "quickSearch": 1, "filterable": 1},
     {"key":"csp_LiteApple","name":"🐛小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-    {"key":"csp_SP361","name":"🐛360(SP)","type":3,"api":"csp_SP361","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SP361","name":"🐛360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🐛Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Bttoo","name": "🐛Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Cokemv","name":"🐛Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
