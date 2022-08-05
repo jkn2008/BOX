@@ -46,6 +46,7 @@
 
 {"key": "小宝影院","name": "👶小宝影院(SP需翻墙)","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"🏢泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_GitCafe","name":"小纸条(SP)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/cs0802.jar;md5;55c1af9594206f6b81e07f6d5322a843","filterable":0},
 {"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1, "ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_AliPanSou","name":"🐱喵盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1, "ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key": "zhaozy","name": "🗃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
