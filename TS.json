@@ -9,7 +9,8 @@
 
 "sites":[
 
- {"key": "Bili","name": "🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jkn2008/qiaoji/raw/branch/main/bili.json"},
+//资源来源于:ltxxjs&n3rd
+{"key": "Bili","name": "🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/jkn2008/qiaoji/raw/branch/main/bili.json"},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🐷爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,12 +44,7 @@
 {"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
 {"key":"考拉直链","name":"考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"TV采集","name":"TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Excel教程","name":"🐞Excel教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/Excel教程.json"},
-{"key":"一级造价师","name":"🐞一级造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/一级造价师.json"},
-{"key":"音乐演唱会","name":"🐞音乐演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
-{"key":"儿童早教","name":"🐞儿童早教","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99%E6%97%A9%E6%95%99.json"},
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-{"key":"哔哩哔哩","name":"🐞哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one//ltxxjs/box2022-1/main/sub/MeowXB/Bili.json"},
+
 
 
 
@@ -56,10 +52,24 @@
 {"key":"If101","name":"1️⃣If101(SP需翻墙)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/kmys.jar"},
 {"key": "小宝影院","name": "👶小宝影院(SP需翻墙)","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/kmys.jar"},
 {"key":"csp_Nbys","name":"🏢泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
+
+
+
+{"key":"音乐演唱会","name":"🐞音乐演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
+{"key":"儿童早教","name":"🐞儿童早教","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99%E6%97%A9%E6%95%99.json"},
+{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+{"key":"Excel教程","name":"🐞Excel教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/Excel教程.json"},
+{"key":"一级造价师","name":"🐞一级造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/一级造价师.json"},
+
+
+
 {"key":"csp_Gitcafe","name":"🦊小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"csp_AliPS","name":"🐱喵盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key": "zhaozy","name": "🗃找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "f8ff9896499c4d5b9dca44c5ff4e0108"},
 {"key":"push_agent","name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
+
+
+
 //{"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_kuqimv","name":"🎧酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/tinghao/raw/branch/main/TheXP/kuqimv.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXp/huya2.json"},
