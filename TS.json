@@ -28,7 +28,7 @@
 {"key": "csp_Xxys","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "追剧喵","name": "🐱追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "神马影院","name": "🐴神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Auete","name":"🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"✨Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "Lib","name": "🎉Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -38,13 +38,13 @@
 {"key":"3EDY","name":"3️⃣3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🤿低端影视1(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
 {"key":"csp_Ddrk","name":"🤿低端影视2(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
-{"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
+{"key":"csp_Tkys","name":"🌈天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
 {"key": "Ekan","name": "🔅Ekan","type": 3,"api": "csp_Ekan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
-{"key": "Lezhu_spider","name": "🐞乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar","ext": ""},
+{"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar","ext": ""},
 {"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/n3rd0805.jar"},
-{"key":"考拉直链","name":"考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"TV采集","name":"TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+{"key":"考拉直链","name":"🐼考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"TV采集","name":"☘TV采集","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"1080资源库","name":"🎨1080资源库(切)🎨","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 
 
 
@@ -55,11 +55,11 @@
 
 
 
-{"key":"音乐演唱会","name":"🐞音乐演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
-{"key":"儿童早教","name":"🐞儿童早教","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99%E6%97%A9%E6%95%99.json"},
-{"key":"空中课堂","name":"🐞空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
-{"key":"Excel教程","name":"🐞Excel教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/Excel教程.json"},
-{"key":"一级造价师","name":"🐞一级造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/一级造价师.json"},
+{"key":"音乐演唱会","name":"🎉音乐演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
+{"key":"儿童早教","name":"🍭儿童早教","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E5%84%BF%E7%AB%A5%E5%90%AF%E8%92%99%E6%97%A9%E6%95%99.json"},
+{"key":"空中课堂","name":"🌟空中课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/%E7%A9%BA%E4%B8%AD%E8%AF%BE%E5%A0%82.json"},
+{"key":"Excel教程","name":"🍟Excel教程","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/Excel教程.json"},
+{"key":"一级造价师","name":"🍲一级造价师","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/ltxxjs/box2022-1/main/sub/bibi/一级造价师.json"},
 
 
 
