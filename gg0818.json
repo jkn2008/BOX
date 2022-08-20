@@ -2,7 +2,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://gitea.com/jkn2008/mzy/raw/branch/main/jar/gg0818.jar",
+"spider":"https://raw.githubusercontent.com/jkn2008/BOX/main/jar/gg0818.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUudHh0"
