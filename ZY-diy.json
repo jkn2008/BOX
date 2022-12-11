@@ -214,9 +214,9 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar" :"https://agit.ai/Mr.X/java/raw/branch/master/xBPQ1107.jar",
+            "filterable": 1,            
             "ext": "https://agit.ai/Mr.X/java/raw/branch/master/XBPQ/AV.json"
+	    "jar" :"https://agit.ai/Mr.X/java/raw/branch/master/xBPQ1107.jar",
         },
         {
             "key": "csp_XBPQ_99",
